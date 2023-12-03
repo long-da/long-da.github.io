@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  龙达
+title:  Da Long
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -28,9 +28,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - AI for Science
-  - Probabilistic Modeling
+Research Interests:
+  - Probabilistic Learning: Bayesian modeling, Uncertainty quantification, Approximate inference, Gaussian Process
+  - AI for Science: Physcis Informed Machine Learning, Operator Learning, ODE/PDEs discovery, Surrogate Modeling
 
 # Education to show in About widget
 education:
@@ -38,12 +38,12 @@ education:
     - course: Ph.D. student in Computer Science
       institution: The University  of Utah
       year: Aug. 2021 - now
-    - course: BSc in Computer Science
+    - course: BSc in Computer Science, BSc in Mathematics
       institution: The University of Arizona
       year: Dec. 2020 
-    - course: BSc in Mathematics
-      institution: The University of Arizona
-      year: Dec. 2020 
+    # - course: BSc in Mathematics
+    #   institution: The University of Arizona
+    #   year: Dec. 2020 
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
