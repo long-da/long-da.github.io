@@ -10,8 +10,8 @@ first_name: Da
 last_name: Long
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -32,19 +32,19 @@ organizations:
 #   - Probabilistic Learning: Bayesian modeling, Uncertainty quantification, Approximate inference, Gaussian Process
 #   - AI for Science: Physcis Informed Machine Learning, Operator Learning, ODE/PDEs discovery, Surrogate Modeling
 
-Research:
-  - Probabilistic Learning: Bayesian modeling, Uncertainty quantification, 
-  - AI for Science: Physcis Informed Machine Learning, Operator Learning, 
+# Research:
+#   - Probabilistic Learning: Bayesian modeling, Uncertainty quantification, 
+#   - AI for Science: Physcis Informed Machine Learning, Operator Learning, 
 
 # Education to show in About widget
-education:
-  courses:
-    - course: Ph.D. student in Computer Science
-      institution: The University  of Utah
-      year: Aug. 2021 - now
-    - course: BSc in Computer Science, BSc in Mathematics
-      institution: The University of Arizona
-      year: Dec. 2020 
+# education:
+#   courses:
+#     - course: Ph.D. student in Computer Science
+#       institution: The University  of Utah
+#       year: Aug. 2021 - now
+#     - course: BSc in Computer Science, BSc in Mathematics
+#       institution: The University of Arizona
+#       year: Dec. 2020 
     # - course: BSc in Mathematics
     #   institution: The University of Arizona
     #   year: Dec. 2020 
@@ -122,6 +122,6 @@ education:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi! Welcome!
+I am a Ph.D. student in computer science at [the Kahlert School of Computing, University of Utah](https://www.cs.utah.edu/). 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"} -->
