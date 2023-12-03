@@ -28,7 +28,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-Research Interests:
+Research:
   - Probabilistic Learning: Bayesian modeling, Uncertainty quantification, Approximate inference, Gaussian Process
   - AI for Science: Physcis Informed Machine Learning, Operator Learning, ODE/PDEs discovery, Surrogate Modeling
 
