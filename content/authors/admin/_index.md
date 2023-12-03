@@ -122,6 +122,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. student in computer science at [the Kahlert School of Computing, University of Utah](https://www.cs.utah.edu/). I received my B.Sc degree in computer science and mathematics from the University of Arizona. 
+I am a Ph.D. student in computer science at [the Kahlert School of Computing, University of Utah](https://www.cs.utah.edu/). I received my B.Sc degree from the University of Arizona, double majored in computer science and mathematics. 
+
+My research primarily focuses on **AI for Scientific Discovery**. This inlcudes developing Bayesian models to solve ODE/PDEs, discover governing laws from scientific data, and learning operators in a probabilistic way. I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"} -->
