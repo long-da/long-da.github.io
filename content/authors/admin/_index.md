@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Da Long
+title:  龙达
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -10,8 +10,8 @@ first_name: Da
 last_name: Long
 
 # Status emoji
-# status:
-#   icon: ☕️
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
