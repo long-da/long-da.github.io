@@ -184,11 +184,11 @@ sections:
   - block: markdown
     content:
       title: Teaching
-      subtitle: ''
+      # subtitle: ''
       # text: |-
       #   {{< gallery album="demo" >}}
     design:
-      columns: '1'
+      columns: '2'
   # - block: collection
   #   id: featured
   #   content:
