@@ -32,9 +32,9 @@ tags:
 
 featured: false
 
-# links:
-# - name: PDF
-#   url: https://arxiv.org/pdf/2310.05387.pdf
+links:
+- name: PDF
+  url: https://arxiv.org/pdf/2310.05387.pdf
 ---
 
 
