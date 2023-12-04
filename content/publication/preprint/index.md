@@ -1,7 +1,10 @@
 ---
-title: A kernel approach for pde discovery and operator learning
+title: 'A kernel approach for pde discovery and operator learning'
 authors:
 - admin
+- Nicole Mrvaljevic
+- Shandian Zhe
+- Bamdad Hosseini
 date: '2022-01-01T00:00:00Z'
 # doi: ""
 
