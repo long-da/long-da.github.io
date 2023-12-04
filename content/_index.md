@@ -214,7 +214,7 @@ sections:
   #     #   {{< gallery album="demo" >}}
   #   design:
   #     columns: '2'
-    - block: markdown
+  - block: markdown
     content:
       title: Experience
       # Date format for experience
