@@ -46,7 +46,7 @@ tags: []
 
 # Custom links (uncomment lines below)
 links:
-- name: Custom Link
+- name: PDF
   url: https://proceedings.mlr.press/v162/long22a/long22a.pdf
 
 # url_pdf: https://proceedings.mlr.press/v162/long22a/long22a.pdf
