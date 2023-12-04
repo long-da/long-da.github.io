@@ -48,6 +48,12 @@ organizations:
     # - course: BSc in Mathematics
     #   institution: The University of Arizona
     #   year: Dec. 2020 
+
+# Teaching
+
+Teaching:
+  - name: CS 6190 Probabilistic Machine Learning (Spring 2023)
+  - name: CS 6350 Machine Learning (Fall 2022)
 # Skills
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

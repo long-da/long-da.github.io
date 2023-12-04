@@ -206,14 +206,22 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: markdown
+  - block: Teaching
     content:
       title: Teaching
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      # text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
     design:
       columns: '2'
+  # - block: markdown
+  #   content:
+  #     title: Teaching
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '2'
   # - block: markdown
   #   content:
   #     title: Teaching
