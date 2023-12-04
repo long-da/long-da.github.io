@@ -18,7 +18,7 @@ author_notes:
   # - 'Equal contribution'
 
 date: "2022-06-28T00:00:00Z"
-# doi: ''
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-06-28T00:00:00Z"
