@@ -120,7 +120,7 @@ social:
   #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user%253DUIY-EDEAAAAJ%2526hl%253Den
+    link: https://scholar.google.com.hk/citations?hl%253Dzh-CN%2526user%253DUIY-EDEAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
