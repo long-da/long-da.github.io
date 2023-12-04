@@ -227,6 +227,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       text: |-
           +  CS 6190 Probabilistic Machine Learning (Spring 2023)<br> +  CS 6350 Machine Learning (Fall 2022)
+      text: |-
+          +  CS 6350 Machine Learning (Fall 2022)
     design:
       columns: '2'
   # - block: collection
