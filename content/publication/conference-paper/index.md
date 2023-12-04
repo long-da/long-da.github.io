@@ -17,16 +17,16 @@ author_notes:
   # - 'Equal contribution'
   # - 'Equal contribution'
 
-# date: '2013-07-01T00:00:00Z'
+date: '2022'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022'
+# publishDate: '2022'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: 
+# publication_types: 
 
 # ['paper-conference']
 
@@ -49,7 +49,7 @@ tags: []
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://proceedings.mlr.press/v162/long22a/long22a.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
