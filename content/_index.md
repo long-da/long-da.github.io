@@ -55,8 +55,10 @@ sections:
     content:
       title: Teaching
       subtitle: 
-      text: {+ CS 6190 Probabilistic Machine Learning (Spring 2023)
-            + CS 6350 Machine Learning (Fall 2022)}
+      text: <ul>
+              <li>CS 6190 Probabilistic Machine Learning (Spring 2023)</li>
+              <li>CS 6350 Machine Learning (Fall 2022)</li>
+            </ul>
     design:
       columns: '2'
   # - block: experience
