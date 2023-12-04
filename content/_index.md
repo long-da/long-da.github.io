@@ -221,7 +221,7 @@ sections:
     content:
       title: Teaching
       subtitle: 
-      text: **Teaching Mentorships**
+      text: <p>Teaching Mentorships</p>
             <ul>
               <li>CS 6190 Probabilistic Machine Learning (Spring 2023)</li>
               <li>CS 6350 Machine Learning (Fall 2022)</li>
