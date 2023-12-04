@@ -13,11 +13,11 @@ authors:
   - Michael Mahoney
 
 # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+author_notes:
+  # - 'Equal contribution'
+  # - 'Equal contribution'
 
-# date: '2022'
+# date: '2013-07-01T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,28 +26,30 @@ publishDate: '2022'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-# publication_types: ['paper-conference']
+publication_types: 
+
+# ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: International Conference on Machine Learning
-publication_short: ICML
+publication_short: 2022 ICML
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags: []
+tags: []
 
 # Display this page in the Featured widget?
 # featured: true
 
 # Custom links (uncomment lines below)
 # links:
-- name: Custom Link
-  url: https://proceedings.mlr.press/v162/long22a/long22a.pdf
+# - name: Custom Link
+#   url: http://example.org
 
-# url_pdf: 'https://proceedings.mlr.press/v162/long22a/long22a.pdf'
+url_pdf: ''
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
@@ -78,7 +80,7 @@ publication_short: ICML
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-<!-- 
+
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -87,4 +89,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
