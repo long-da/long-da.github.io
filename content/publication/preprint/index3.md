@@ -1,12 +1,14 @@
 ---
-title: A kernel approach for pde discovery and operator learning
+title: Equation Discovery with Bayesian Spike-and-Slab Priors and Efficient Kernels
 authors:
   - admin
-  - Nicole Mrvaljevic
+  - Wei W Xing
+  - Aditi S Krishnapriyan
+  - Robert M Kirby
   - Shandian Zhe
-  - Bamdad Hosseini
+  - Michael W Mahoney
 
-date: "2022-10-00T00:00:00Z"
+date: "2023-10-00T00:00:00Z"
 doi: ""
 
 
@@ -34,38 +36,7 @@ featured: false
 
 links:
 - name: PDF
-  url: https://arxiv.org/pdf/2210.08140.pdf
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-#   focal_point: ""
-#   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-# projects:
-# - internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
-
+  url: https://arxiv.org/pdf/2310.05387.pdf
 
 ---
 

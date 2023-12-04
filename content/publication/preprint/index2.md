@@ -1,12 +1,15 @@
 ---
-title: A kernel approach for pde discovery and operator learning
-authors:
-  - admin
-  - Nicole Mrvaljevic
-  - Shandian Zhe
-  - Bamdad Hosseini
 
-date: "2022-10-00T00:00:00Z"
+title: Solving High Frequency and Multi-Scale PDEs with Gaussian Processes
+authors:
+  - Shikai Fang
+  - Madison Cooley
+  - admin
+  - Shibo Li
+  - Robert Kirby
+  - Shandian Zhe
+
+date: "2023-11-00T00:00:00Z"
 doi: ""
 
 
@@ -34,7 +37,7 @@ featured: false
 
 links:
 - name: PDF
-  url: https://arxiv.org/pdf/2210.08140.pdf
+  url: https://arxiv.org/pdf/2311.04465.pdf
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
@@ -65,7 +68,6 @@ links:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
-
 
 ---
 
