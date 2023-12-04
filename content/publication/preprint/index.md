@@ -65,7 +65,8 @@ links:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
----
+
+
 
 title: Solving High Frequency and Multi-Scale PDEs with Gaussian Processes
 authors:
@@ -105,6 +106,8 @@ featured: false
 links:
 - name: PDF
   url: https://arxiv.org/pdf/2311.04465.pdf
+
+  
 ---
 
 
