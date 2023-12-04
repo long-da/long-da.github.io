@@ -217,6 +217,16 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: markdown
+    content:
+      title: Teaching
+      subtitle: 
+      text: <ul>
+              <li>CS 6190 Probabilistic Machine Learning (Spring 2023)</li>
+              <li>CS 6350 Machine Learning (Fall 2022)</li>
+            </ul>
+    design:
+      columns: '2'
   # - block: teaching
   #   content:
   #     title: Teaching
@@ -316,14 +326,4 @@ sections:
   #         captcha: false
   #   design:
   #     columns: '2'
-    - block: markdown
-    content:
-      title: Teaching
-      subtitle: 
-      text: <ul>
-              <li>CS 6190 Probabilistic Machine Learning (Spring 2023)</li>
-              <li>CS 6350 Machine Learning (Fall 2022)</li>
-            </ul>
-    design:
-      columns: '2'
 ---
