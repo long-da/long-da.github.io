@@ -51,7 +51,7 @@ organizations:
 
 # Teaching
 
-Teaching:
+teaching:
   - name: CS 6190 Probabilistic Machine Learning (Spring 2023)
   - name: CS 6350 Machine Learning (Fall 2022)
 # Skills
