@@ -32,7 +32,7 @@ date: '2022-01-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
 publication: International Conference on Machine Learning
-publication_short: 2022 ICML
+publication_short: ICML
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -45,11 +45,11 @@ tags: []
 # featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Custom Link
+  url: https://proceedings.mlr.press/v162/long22a/long22a.pdf
 
-url_pdf: https://proceedings.mlr.press/v162/long22a/long22a.pdf
+# url_pdf: https://proceedings.mlr.press/v162/long22a/long22a.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
