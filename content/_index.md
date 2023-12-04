@@ -51,7 +51,7 @@ sections:
   #   design:
   #     columns: '2'
 
-  - block: teaching
+  - block: markdown
     content:
       title: Teaching
       text: ''
