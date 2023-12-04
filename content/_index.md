@@ -54,11 +54,8 @@ sections:
   - block: markdown
     content:
       title: Teaching
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '2'
+      subtitle: 
+      text: CS 6190 Probabilistic Machine Learning (Spring 2023). CS 6350 Machine Learning (Fall 2022)
   # - block: experience
   #   content:
   #     title: Experience
