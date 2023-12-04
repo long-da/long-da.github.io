@@ -1,5 +1,5 @@
 ---
-title: Fourier PINNs: From Strong Boundary Conditions to Adaptive Fourier Bases
+title: 'Fourier PINNs: From Strong Boundary Conditions to Adaptive Fourier Bases'
 authors:
   - Madison Cooley
   - admin
@@ -35,6 +35,8 @@ featured: false
 links:
 - name: PDF
   url: https://arxiv.org/pdf/2310.05387.pdf
+
+
 ---
 
 
