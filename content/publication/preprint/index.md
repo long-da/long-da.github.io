@@ -1,4 +1,4 @@
----
+
 title: A kernel approach for pde discovery and operator learning
 authors:
   - admin
@@ -216,7 +216,6 @@ links:
 - name: PDF
   url: https://arxiv.org/pdf/2310.05387.pdf
 
----
 
 
 
