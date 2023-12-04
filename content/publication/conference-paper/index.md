@@ -21,7 +21,7 @@ date: "2022-6-01T00:00:00Z"
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2012-10-01T00:00:00Z"
+publishDate: "2022-6-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
