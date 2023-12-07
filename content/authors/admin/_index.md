@@ -142,9 +142,10 @@ I am a Ph.D. student in computer science at [the Kahlert School of Computing, Un
 My research primarily focuses on **AI for Scientific Discovery**. This inlcudes developing Bayesian models to solve ODE/PDEs, discover governing laws from scientific data, and learning operators in a probabilistic way. I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
 
 My research interest includes:
-  +   **AI for Science**: Physics Informed Machine Learning, Surrogate Modeling, Operator Learning, Equation Discovery, Inverse Problems
-  +  **Probabilistic Machine Learning**: Bayesian Modeling, Uncertianty Quantification, Gaussian Process, Approximate Inference
-
+  +   **AI for Scientific Discover**: Surrogate Modeling, Physics Informed Machine Learning, Operator
+Learning, Equation Discovery
+  +  **Probabilistic Learning**: Bayesian Modeling, Uncertainty Quantification, Approximate Inference,
+Gaussian Process
 <span style="color: red;">I am looking for a machine learning internship for summer 2024. Please contact me via email if you are interested. </span>
 
 
