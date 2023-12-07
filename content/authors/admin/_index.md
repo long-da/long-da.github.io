@@ -146,6 +146,7 @@ My research interest includes:
 Learning, Equation Discovery
   +  **Probabilistic Learning**: Bayesian Modeling, Uncertainty Quantification, Approximate Inference,
 Gaussian Process
+
 <span style="color: red;">I am looking for a machine learning internship for summer 2024. Please contact me via email if you are interested. </span>
 
 
