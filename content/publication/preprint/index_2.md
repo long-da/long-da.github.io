@@ -1,10 +1,10 @@
 ---
-title: Invertible Fourier Neural Operators for Tackling Both Forward and Inverse Problems
+title: Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation
 authors:
   - admin
   - Zhitong Xu
-  - Qiwei Yuan
-  - Yin Yang
+  - Guang Yang
+  - Akil Narayan
   - Shandian Zhe
 
 # date: "2024-04-01T00:00:00Z"
@@ -35,7 +35,7 @@ featured: false
 
 links:
 - name: PDF
-  url: https://arxiv.org/pdf/2402.11722
+  url: https://arxiv.org/pdf/2410.13794
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
