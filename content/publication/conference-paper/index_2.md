@@ -4,7 +4,7 @@ title: Solving High Frequency and Multi-Scale PDEs with Gaussian Processes
 authors:
   - Shikai Fang*
   - Madison Cooley*
-  - admin*
+  - Da Long*
   - Shibo Li
   - Robert Kirby
   - Shandian Zhe
