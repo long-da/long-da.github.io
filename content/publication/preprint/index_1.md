@@ -6,13 +6,13 @@ authors:
   - Shandian Zhe
   - Bamdad Hosseini
 
-date: "2022-10-01T00:00:00Z"
+date: "2024-04-01T00:00:00Z"
 doi: ""
 
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-10-01T00:00:00Z"
+publishDate: "2024-04-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,8 +20,8 @@ publishDate: "2022-10-01T00:00:00Z"
 # publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint"
-publication_short: "Preprint"
+publication: "Physica D: Nonlinear Phenomena"
+publication_short: "Physica D: Nonlinear Phenomena"
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -34,7 +34,7 @@ featured: false
 
 links:
 - name: PDF
-  url: https://arxiv.org/pdf/2210.08140.pdf
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0167278924000460
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'

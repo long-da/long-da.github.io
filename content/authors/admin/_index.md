@@ -111,7 +111,7 @@ teaching:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:dl932@cs.utah.edu'
+    link: 'mailto:u1368737@umail.utah.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
