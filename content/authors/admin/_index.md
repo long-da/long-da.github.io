@@ -142,7 +142,7 @@ I am a Ph.D. student in computer science at [the Kahlert School of Computing, Un
 My research primarily focuses on **AI for Physics**. This inlcudes developing generative/determinstic neural operators for functional mapping, ODE/PDEs solvers, and uncovering governing physics laws from scientific data. I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
 
 My research interest includes:
-  +   **AI for Physics**: Long-term spatial-temporal dynamics modeling, Generative Neural Operator
+  +   **AI for Physics**: Long-term Spatial-Temporal Dynamics Forecasting, Generative Neural Operator
 Learning, Surrogate Modeling, Physics Informed Machine Learning, Equation Discovery, Inverse Problem
   +  **Probabilistic Learning**: Generative Modeling, Bayesian Modeling, Uncertainty Quantification, Approximate Inference,
 Gaussian Process
