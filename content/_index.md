@@ -217,6 +217,20 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    content:
+      title: Preprint
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - preprint
+        # exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: markdown
     content:
       title: Teaching
