@@ -147,6 +147,6 @@ Learning, Surrogate Modeling, Equation Discovery, Inverse Problem
   +  **Probabilistic Learning**: Generative Modeling, Bayesian Modeling, Uncertainty Quantification, Approximate Inference,
 Gaussian Process
 
-<span style="color: red;">I am looking for a GenAI or Generative Recommendatation system internship for summer 2025. Please contact me via email if you are interested. </span>
+<span style="color: red;">I am looking for a ML/GenAI/Generative Recommendatation system/ internship for summer 2025. Please contact me via email if you are interested. </span>
 
 
