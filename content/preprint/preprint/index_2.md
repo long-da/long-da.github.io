@@ -1,11 +1,11 @@
 ---
-title: Hierarchical Fourier Transformer for Long-Term Multi-Scale Spatiotemporal Dynmaics Forecasting
+title: Spatio-temporal Fourier Transformer (StFT) for Long-term Dynamics Prediction
 authors:
   - admin
   - Shandian Zhe
-  - Zhe Bai
-  - Leonid Oliker
   - Samuel Williams
+  - Leonid Oliker
+  - Zhe Bai
 
 date: "2024-12-01T00:00:00Z"
 doi: ""
