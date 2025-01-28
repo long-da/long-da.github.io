@@ -1,13 +1,13 @@
 ---
-title: Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation
+title: Hierarchical Fourier Transformer for Long-Term Multi-Scale Spatiotemporal Dynmaics Forecasting
 authors:
   - admin
-  - Zhitong Xu
-  - Guang Yang
-  - Akil Narayan
   - Shandian Zhe
+  - Zhe Bai
+  - Leonid Oliker
+  - Samuel Williams
 
-date: "2024-10-01T00:00:00Z"
+date: "2024-12-01T00:00:00Z"
 doi: ""
 
 
@@ -33,9 +33,9 @@ tags:
 
 featured: false
 
-links:
-- name: PDF
-  url: https://arxiv.org/pdf/2410.13794
+# links:
+# - name: PDF
+#   url: https://arxiv.org/pdf/2410.13794
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'

@@ -1,13 +1,14 @@
 ---
-title: Hierarchical Fourier Transformer for Long-Term Multi-Scale Spatiotemporal Dynmaics Forecasting
+title: Pseudo Physics-Informed Neural Operators
 authors:
+  - Keyan Chen
+  - Yile Li
   - admin
+  - Wei W. Xing
+  - Jacob Hochhalter
   - Shandian Zhe
-  - Zhe Bai
-  - Leonid Oliker
-  - Samuel Williams
 
-date: "2024-12-01T00:00:00Z"
+date: "2024-06-01T00:00:00Z"
 doi: ""
 
 
