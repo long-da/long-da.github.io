@@ -139,7 +139,7 @@ highlight_name: true
 ---
 I am a Ph.D. student in computer science at [the Kahlert School of Computing, University of Utah](https://www.cs.utah.edu/). I earned my Bachelor of Science degree from the University of Arizona, with double majors in computer science and mathematics. 
 
-My research primarily focuses on **AI for Physics**. This inlcudes developing generative/determinstic neural operators for functional mapping, ODE/PDEs solvers, and uncovering governing physics laws from scientific data. I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
+My research primarily focuses on **AI for Physics**. This inlcudes long-term forecasting multi-scale and multi-physics dynamics, and developing generative/determinstic neural operators for functional mapping, etc. I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
 
 My research interest includes:
   +   **AI for Physics**: Spatio-temporal Forecasting, Generative Neural Operator
