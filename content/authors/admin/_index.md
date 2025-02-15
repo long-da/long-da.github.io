@@ -132,19 +132,18 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Da_cv3.pdf
+    link: uploads/Da_cv_no_interest.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 I am a Ph.D. student in computer science at [the Kahlert School of Computing, University of Utah](https://www.cs.utah.edu/). I earned my Bachelor of Science degree from the University of Arizona, with double majors in computer science and mathematics. 
 
-My research primarily focuses on **AI for Physics**. This inlcudes long-term forecasting multi-scale and multi-physics dynamics, and developing generative/determinstic neural operators for functional mapping, etc. I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
+My research primarily focuses on **AI for Science**. This inlcudes long-term forecasting multi-scale and multi-physics dynamics, developing generative/determinstic neural operators for functional mapping, scientific large language model, foundation model for physics, etc. I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
 
 My research interest includes:
-  +   **AI for Physics**: Spatio-temporal Forecasting, Generative Neural Operator
-Learning, Surrogate Modeling
-  +  **Probabilistic Learning**: Generative Modeling, Bayesian Modeling, Approximate Inference, Gaussian Process
+  +   **AI for Science**: Foundation Model for Physics, Spatio-temporal Forecasting, Surrogate Modeling
+  +  **Probabilistic Learning**: Scientific Large Language Model, Diffusion Model for Operator Learning, Gaussian Process
 
 <span style="color: red;">I am looking for a machine learning internship for summer 2025. Please contact me via email if you are interested. </span>
 
