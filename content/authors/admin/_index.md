@@ -145,6 +145,6 @@ My research interest includes:
   +   **AI for Science**: Foundation Model for Physics, Spatio-temporal Forecasting, Surrogate Modeling
   +  **Probabilistic Learning**: Scientific Large Language Model, Diffusion Model for Operator Learning, Gaussian Process
 
-<span style="color: red;">I am looking for a machine learning internship for summer 2025. Please contact me via email if you are interested. </span>
+<span style="color: red;">I am on job market for full-time roles starting in summer/fall 2026. Please feel free to reach out to me if you are hiring. Any opportunity is appreciated. </span>
 
 
