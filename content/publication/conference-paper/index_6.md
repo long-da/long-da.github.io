@@ -2,8 +2,7 @@
 
 title: Toward Efficient Kernel-Based Solvers for Nonlinear PDEs
 authors:
-  - Zhitong Xu*
-  - Da Long*
+  - Zhitong Xu*, Da Long*
   - Yiming Xu
   - Guang Yang
   - Shandian Zhe
