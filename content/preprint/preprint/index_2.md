@@ -1,13 +1,14 @@
 ---
-title: Spatio-temporal Fourier Transformer (StFT) for Long-term Dynamics Prediction
+title: Pseudo Physics-Informed Neural Operators
 authors:
+  - Keyan Chen
+  - Yile Li
   - admin
+  - Wei W. Xing
+  - Jacob Hochhalter
   - Shandian Zhe
-  - Samuel Williams
-  - Leonid Oliker
-  - Zhe Bai
 
-date: "2024-12-01T00:00:00Z"
+date: "2024-06-01T00:00:00Z"
 doi: ""
 
 
@@ -33,9 +34,9 @@ tags:
 
 featured: false
 
-# links:
-# - name: PDF
-#   url: https://arxiv.org/pdf/2410.13794
+links:
+- name: PDF
+  url: https://arxiv.org/pdf/2502.02682v1
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'

@@ -1,13 +1,13 @@
 ---
-title: Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation
+title: Spatio-temporal Fourier Transformer (StFT) for Long-term Dynamics Prediction
 authors:
   - admin
-  - Zhitong Xu
-  - Guang Yang
-  - Akil Narayan
   - Shandian Zhe
+  - Samuel Williams
+  - Leonid Oliker
+  - Zhe Bai
 
-date: "2024-10-01T00:00:00Z"
+date: "2024-12-01T00:00:00Z"
 doi: ""
 
 
@@ -35,7 +35,7 @@ featured: false
 
 links:
 - name: PDF
-  url: https://arxiv.org/pdf/2410.13794
+  url: https://arxiv.org/pdf/2503.11899
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
