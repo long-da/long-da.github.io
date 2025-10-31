@@ -139,11 +139,13 @@ highlight_name: true
 ---
 I am a Ph.D. student in computer science at [the Kahlert School of Computing, University of Utah](https://www.cs.utah.edu/). I earned my Bachelor of Science degree from the University of Arizona, with double majors in computer science and mathematics. 
 
-My research primarily focuses on **AI for Science**. This inlcudes long-term forecasting multi-scale and multi-physics dynamics, developing generative/determinstic neural operators for functional mapping, scientific large language model, foundation model for physics, etc. I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
+My PhD research focuses on developing surrogate-based AI systems that learn to emulate and reason about complex processes, including both physical systems and human expertise:
+  + Surrogates for human experts: I align agentic large language models to act as intelligent surrogates for personalized healthcare coaching and recommendations, using customized techniques such as supervised fine-tuning, reinforcement learning, and chain-of-thought reasoning.  
+  + Surrogates for physical dynamical systems: I develop probabilistic and generative surrogates for complex dynamical physical systems such as climate evolution, plasma dynamics, and turbulent fluid flows, to enable efficient simulation, forecasting, and uncertainty quantification.
 
-My research interest includes:
-  +   **AI for Science**: Foundation Model for Physics, Spatio-temporal Forecasting, Surrogate Modeling
-  +  **Probabilistic Learning**: Scientific Large Language Model, Diffusion Model for Operator Learning, Gaussian Process
+I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
+
+My research interest includes: LLM Post-training, Surrogate Modeling, Reinforcement Learning
 
 <span style="color: red;">I am on job market for full-time roles starting in summer/fall 2026. Please feel free to reach out to me if you are hiring. Any opportunity is appreciated. </span>
 
