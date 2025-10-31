@@ -132,7 +132,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Da_resume_v2.pdf
+    link: uploads/Da_oct.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
