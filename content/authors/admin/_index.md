@@ -137,16 +137,16 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. student in computer science at [the Kahlert School of Computing, University of Utah](https://www.cs.utah.edu/). I earned my Bachelor of Science degree from the University of Arizona, with double majors in computer science and mathematics. 
+I am a Ph.D. student in computer science at [the Kahlert School of Computing, University of Utah](https://www.cs.utah.edu/). I earned my Bachelor of Science degree from the University of Arizona in computer science and mathematics. 
 
-My PhD research focuses on developing surrogate-based AI systems that learn to emulate and reason about complex processes, including both physical systems and human expertise:
-  + Surrogates for human experts: I align agentic large language models to act as intelligent surrogates for personalized healthcare coaching and recommendations, using customized techniques such as supervised fine-tuning, reinforcement learning, and chain-of-thought reasoning.  
-  + Surrogates for physical dynamical systems: I develop probabilistic and generative surrogates for complex dynamical physical systems such as climate evolution, plasma dynamics, and turbulent fluid flows, to enable efficient simulation, forecasting, and uncertainty quantification.
+My PhD research focuses on developing surrogate-based AI models that learn to emulate and reason about complex processes, including both physical systems and human expertise:
+  + Surrogates for human experts: I align large language models to act as intelligent surrogates for personalized healthcare coaching and recommendations, using customized techniques such as supervised fine-tuning, reinforcement learning, and chain-of-thought reasoning.  
+  + Surrogates for physical dynamical systems: I develop probabilistic and generative surrogates for complex physical dynamics such as climate evolution, plasma dynamics, and turbulent fluid flows, to enable efficient simulation, forecasting, and uncertainty quantification.
 
 I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
 
 My research interest includes: LLM Post-training, Surrogate Modeling, Reinforcement Learning
 
-<span style="color: red;">I am on job market for full-time roles starting in summer/fall 2026. Please feel free to reach out to me if you are hiring. Any opportunity is appreciated. </span>
+<span style="color: red;">I am on job market for full-time roles starting in summer/fall 2026. Please feel free to reach out to me if you are hiring. </span>
 
 
