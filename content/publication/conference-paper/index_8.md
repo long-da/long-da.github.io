@@ -1,5 +1,5 @@
 ---
-title: Pseudo-Physics-Informed Neural Operators: Enhancing Operator Learning from Limited Data
+title: Pseudo-Physics-Informed Neural Operators Enhancing Operator Learning from Limited Data
 authors:
   - Keyan Chen
   - Yile Li
