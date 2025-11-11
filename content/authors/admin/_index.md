@@ -147,6 +147,6 @@ I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
 
 My research interest includes: LLM Post-training, Surrogate Modeling, Reinforcement Learning
 
-<span style="color: red;">I am on job market for full-time roles starting in summer/fall 2026. Please feel free to reach out to me if you are hiring. </span>
+<span style="color: red;">I am on job market for a full-time role starting in summer/fall 2026. Please feel free to reach out to me if you are hiring. </span>
 
 
