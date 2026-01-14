@@ -7,10 +7,11 @@ authors:
   - Leonid Oliker
   - Zhe Bai
 
-date: "2024-12-01T00:00:00Z"
+date: "2025-04-01T00:00:00Z"
 doi: ""
 
 
+publishDate: "2025-04-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2024-04-01T00:00:00Z"
@@ -21,8 +22,8 @@ doi: ""
 # publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
-publication_short: Preprint
+publication: Transactions on Machine Learning Research
+publication_short: TMLR
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -35,7 +36,7 @@ featured: false
 
 links:
 - name: PDF
-  url: https://arxiv.org/pdf/2503.11899
+  url: https://arxiv.org/pdf/2502.02682v1
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
