@@ -139,7 +139,7 @@ highlight_name: true
 ---
 I am a Ph.D. student in computer science at [the Kahlert School of Computing, University of Utah](https://www.cs.utah.edu/). I earned my Bachelor of Science degree from the University of Arizona in computer science and mathematics. 
 
-<span style="color: red;">I am on job market for a full-time role starting in summer/fall 2026. I have two summer internships in Meta and DoorDash working on developing generative recommendation models(Meta) and homepage ranking models(DoorDash).</span>
+<span style="color: red;">I am on the job market for a full-time role starting in summer/fall 2026. I previously interned at Meta (2024 summer) and DoorDash (2025 summer) working on developing generative recommendation models (Meta) and homepage ranking models (DoorDash). I am interested in machine learning engineer and machine learning applied scientist roles. Please refer to my [resume](https://long-da.github.io/uploads/DaCV.pdf) for more details.</span>
 
 
 My PhD research focuses on developing surrogate-based AI models that learn to emulate and reason about complex processes, including both physical systems and human expertise:
