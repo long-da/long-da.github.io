@@ -132,7 +132,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/DaResume.pdf
+    link: uploads/DaCV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -147,6 +147,6 @@ I am advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
 
 My research interest includes: Surrogate Modeling, LLM Alignment, Reinforcement Learning
 
-<span style="color: red;">I am on job market for a full-time role starting in summer/fall 2026. Please feel free to reach out to me if you are hiring. </span>
+<span style="color: red;">I am on job market for a full-time role starting in summer/fall 2026. I have two summer internships in Meta and DoorDash working on developing generative recommendation models and homepage ranking models.</span>
 
 
